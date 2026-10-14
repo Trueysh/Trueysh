@@ -65,13 +65,6 @@ RAG：MinerU · BGE / BGE-m3 · 混合检索 · 几何融合 / RRF · LLM 重排
 模型：Qwen / DeepSeek · SFT / LoRA · 量化推理加速
 工程：Django · Neo4j · 内网离线部署 · 缓存分层 · 幂等写入
 
-## 开源
-
-| 项目 | 说明 |
-|---|---|
-| [ICU_Mediapipe](https://github.com/Trueysh/ICU_Mediapipe) ★27 | ICU 手部行为监测：MediaPipe 21 关键点，停留时长分级报警，ROI 滤误报 |
-| [hybrid-search-demo](https://github.com/Trueysh/hybrid-search-demo) | BM25 / 向量 / RRF 三种检索策略对比实验 |
-
 ## 经历
 
 | 时间 | 公司 | 方向 |
@@ -141,13 +134,6 @@ WeCom + state-machine task dispatch, smart-sheet as the single source of truth. 
 RAG: MinerU · BGE / BGE-m3 · hybrid retrieval · geometric fusion / RRF · LLM rerank · RAGas
 Models: Qwen / DeepSeek · SFT / LoRA · quantization & inference acceleration
 Engineering: Django · Neo4j · air-gapped deployment · layered caching · idempotent writes
-
-## Open Source
-
-| Project | Notes |
-|---|---|
-| [ICU_Mediapipe](https://github.com/Trueysh/ICU_Mediapipe) ★27 | ICU hand-behavior monitoring: MediaPipe 21 landmarks, dwell-time tiered alarms, ROI false-positive filtering |
-| [hybrid-search-demo](https://github.com/Trueysh/hybrid-search-demo) | BM25 vs vector vs RRF retrieval strategy comparison |
 
 ## Experience
 
