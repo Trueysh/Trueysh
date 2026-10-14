@@ -137,5 +137,3 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1e3a8a,100:0f172a&height=120&section=footer" alt="footer" />
 
 ---
-
-<sub>公司与项目名称已脱敏；文中数字口径与简历一致。</sub>
